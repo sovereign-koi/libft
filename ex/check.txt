@@ -1,0 +1,23 @@
+done:
+	isalpha
+	isdigit
+	isalnum
+	isascii
+	isprint
+	strlen
+	tolower
+	toupper
+	strlcpy
+	strncmp
+	strlcat
+	bzero
+	memcpy
+	memmove
+	memcmp
+to do:
+	memset
+	strchr
+	strrchr
+	memchr
+	strnstr
+	atoi
